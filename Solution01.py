@@ -4,6 +4,7 @@
 # Solution 01
 
 def greaterThan(ls, n):
+    '''prints the elements in the list that are greater than n'''
     for i in range(len(ls)):
         if ls[i] > n:
             print(ls[i])
