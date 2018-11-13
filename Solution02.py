@@ -1,6 +1,7 @@
 # Paul Gonzales
 # ITEC2313
 # 2018-11-13
+# Solution 02
 
 def wins(team, f_handle):
   #TODO determine number of instances of team in f_handle
