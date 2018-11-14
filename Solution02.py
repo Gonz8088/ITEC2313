@@ -5,6 +5,7 @@
 
 def wins(team, f_handle):
   #TODO determine number of instances of team in f_handle
+  # may need to use the list.count(element) method
   return()
 
 def main():

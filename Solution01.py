@@ -11,6 +11,10 @@ def greaterThan(ls, n):
     return()
 
 def main():
+    nums = [1, 2, 3, 4, 5]
+    
+    greaterThan(nums, 3)
+    
     return()
 
 main()
